@@ -7,7 +7,7 @@ graphx sandbox for graph load, construction and operations
 
 **Sofware Install:**
 
- - Spark (1.0.0)
+ - Apache Spark (1.0.0)
  - Scala (2.10.4)
  - SBT (0.13.5)
 
